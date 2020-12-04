@@ -1,26 +1,322 @@
 [
   {
-    "Name": "User 1",
-    "Flag": ":flag_us:",
-    "SWGOH": "<https://swgoh.gg/p/122235729/>",
-    "UTC": "00:00"
+  "name": "RaZe",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/895437525",
+  "UTC": "01:00"
   },
   {
-    "Name": "User 2",
-    "Flag": ":flag_ca:",
-    "SWGOH": "<https://swgoh.gg/p/122235729/>",
-    "UTC": "02:00"
+  "name": "Tsubasa",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/713863313",
+  "UTC": "00:00"
   },
-  {
-    "Name": "User 3",
-    "Flag": ":flag_us:",
-    "SWGOH": "<https://swgoh.gg/p/122235729/>",
-    "UTC": "04:00"
+{
+  "name": "D Dub",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/",
+  "UTC": "00:00"
   },
-  {
-    "name": "RaZe",
-    "Flag": ":flag_us:",
-    "SWGOH": "<https://swgoh.gg/p/895437525",
-    "UTC": "01:00"
+{
+  "name": "TheNoobishHipster",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/358162817",
+  "UTC": "00:00"
+  },
+{
+  "name": "MPavlis76",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/973159378",
+  "UTC": "00:00"
+  },
+{
+  "name": "Miles to go",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/246413893",
+  "UTC": "00:00"
+  },
+{
+  "name": "Tim",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/535284682 ",
+  "UTC": "00:00"
+  },
+{
+  "name": "Torr",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/218193841",
+  "UTC": "00:00"
+  },
+{
+  "name": "Puke Slyfokker",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/876492911",
+  "UTC": "00:00"
+  },
+{
+  "name": "RR Dr K Toffel",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/557167758",
+  "UTC": "00:00"
+  },
+{
+  "name": "Sprite",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/584181147 ",
+  "UTC": "00:00"
+  },
+{
+  "name": "Aseigan",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/338177122",
+  "UTC": "00:00"
+  },
+{
+  "name": "Papichewlo",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/313975122",
+  "UTC": "00:00"
+  },
+{
+  "name": "scabmaggot",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/443975359",
+  "UTC": "00:00"
+  },
+{
+  "name": "Hermit Xogall",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/779287615",
+  "UTC": "00:00"
+  },
+{
+  "name": "BinarySun Uruk",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/415699568",
+  "UTC": "00:00"
+  },
+{
+  "name": "Zero",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/972922988",
+  "UTC": "00:00"
+  },
+{
+  "name": "SovietNinja",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/378141696",
+  "UTC": "00:00"
+  },
+{
+  "name": "Chrix",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/527143997",
+  "UTC": "00:00",
+  "usericon": ":skull_crossbones:"
+  },
+{
+  "name": "DIACOLO",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/689917491",
+  "UTC": "00:00"
+  },
+{
+  "name": "PeIN",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/276354643",
+  "UTC": "00:00"
+  },
+{
+  "name": "Laz",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/317661913",
+  "UTC": "00:00"
+  },
+{
+  "name": "LSF Makross41",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/635738892",
+  "UTC": "00:00"
+  },
+{
+  "name": "Jagged Fel",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/552534616",
+  "UTC": "00:00"
+  },
+{
+  "name": "UE Umpf",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/859145998",
+  "UTC": "00:00"
+  },
+{
+  "name": "Jon Irenicus",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/475378577",
+  "UTC": "00:00"
+  },
+{
+  "name": "DarthThulx",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/447825597",
+  "UTC": "00:00"
+  },
+{
+  "name": "Tiber",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/153746745",
+  "UTC": "00:00"
+  },
+{
+  "name": "Epic Dazza",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/184345657",
+  "UTC": "00:00"
+  },
+{
+  "name": "Daveli",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/365465916",
+  "UTC": "00:00"
+  },
+{
+  "name": "Tellz",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/515685349",
+  "UTC": "00:00"
+  },
+{
+  "name": "Xader",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/587977944",
+  "UTC": "00:00"
+  },
+{
+  "name": "Jilvert",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/564834468",
+  "UTC": "00:00"
+  },
+{
+  "name": "AreTwo",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/826743651",
+  "UTC": "00:00"
+  },
+{
+  "name": "Rafaam",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/693175537",
+  "UTC": "00:00"
+  },
+{
+  "name": "Ry Gon Jinn",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/176155741",
+  "UTC": "00:00"
+  },
+{
+  "name": "Javier Garcia",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/925433985",
+  "UTC": "00:00"
+  },
+{
+  "name": "Rhys",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/765189176",
+  "UTC": "00:00"
+  },
+{
+  "name": "Kortes",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/518826898",
+  "UTC": "00:00"
+  },
+{
+  "name": "Baker",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/166218458",
+  "UTC": "00:00"
+  },
+{
+  "name": "OORäh nutz",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/851554616",
+  "UTC": "00:00"
+  },
+{
+  "name": "Zeroth",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/516583162",
+  "UTC": "00:00"
+  },
+{
+  "name": "Dealin",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/444733831",
+  "UTC": "00:00"
+  },
+{
+  "name": "Luke81Martin",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/756839763",
+  "UTC": "00:00"
+  },
+{
+  "name": "Nuglug96",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/355882286",
+  "UTC": "00:00"
+  },
+{
+  "name": "Spectronizer",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/644321919",
+  "UTC": "00:00"
+  },
+{
+  "name": "Alyo Shaa",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/144288453",
+  "UTC": "00:00"
+  },
+{
+  "name": "Chummibacca",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/",
+  "UTC": "00:00"
+  },
+{
+  "name": "ekim issor",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/252695691",
+  "UTC": "00:00"
+  },
+{
+  "name": "Obichar",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/977339283",
+  "UTC": "00:00"
+  },
+{
+  "name": "Prat",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/568965184",
+  "UTC": "00:00",
+  "usericon": ":skull_crossbones:"
+  },
+{
+  "name": "amendel",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/684113537",
+  "UTC": "00:00"
+  },
+{
+  "name": "Boomsong",
+  "Flag": ":flag_us:",
+  "SWGOH": "<https://swgoh.gg/p/447722933",
+  "UTC": "00:00"
   }
-  ]
+]
